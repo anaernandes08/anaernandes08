@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ana Ernandes</h1> <h3 align="center">Software Engineering Student | Backend & Databases Enthusiast</h3> <p align="center"></p>
+<h1 align="center">Hi there, I'm Ana Ernandes</h1> <h3 align="center">Software Engineering Student | Backend & Databases Enthusiast</h3> 
 💻 About Me
 
 Software Engineering student at PUCPR, interested in Backend Development, Databases, and Software Engineering. I enjoy learning new technologies and building projects to improve my programming skills.
@@ -17,16 +17,19 @@ Sou curiosa, dedicada e estou sempre buscando aprender, evoluir profissionalment
 
 </details>
 
-Languages & Databases
+<p align="center">Languages & Databases</p>
 
-<p align="left"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> </p>
 
-Tools
+<p align="center">Tools</p>
 
-<p align="left"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" /> </p>
 🗄️ Areas of Interest <br>
   - Backend Development<br>
   - Database Design & Management<br>
   - API Development<br>
-  - Let's Connect<br>
+
+---
+  
+ ✉️ Let's Connect<br>
 <p align="left"> <a href="https://www.linkedin.com/in/ana-ernandes-407518396/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:anaernandes2008@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
