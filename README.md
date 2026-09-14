@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ana Ernandes</h1> <h3 align="center">Software Engineering Student | Backend & Databases Enthusiast</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
+<h1 align="center">Hi there, I'm Ana Ernandes</h1> <h3 align="center">Software Engineering Student | Backend & Databases Enthusiast</h3> <p align="center"></p>
 💻 About Me
 
 Software Engineering student at PUCPR, interested in Backend Development, Databases, and Software Engineering. I enjoy learning new technologies and building projects to improve my programming skills.
@@ -24,9 +24,9 @@ Languages & Databases
 Tools
 
 <p align="left"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" /> </p>
-🗄️ Areas of Interest
-  - Backend Development
-  - Database Design & Management
-  - API Development
-  - Let's Connect
+🗄️ Areas of Interest <br>
+  - Backend Development<br>
+  - Database Design & Management<br>
+  - API Development<br>
+  - Let's Connect<br>
 <p align="left"> <a href="https://www.linkedin.com/in/ana-ernandes-407518396/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:anaernandes2008@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
