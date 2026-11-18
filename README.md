@@ -27,7 +27,7 @@ Sou curiosa, dedicada e estou sempre buscando aprender, evoluir profissionalment
 </p>
 <h2 align="center">Ferramentas</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,blender,excel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,blender,excel&theme=dark" /><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%932031%29.svg" alt="Excel" width="48" height="48" />
 </p>
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0B1224,514071,B3D5F1,514071,0B1224" width="100%" />
 <h2 align="center">Áreas de Interesse</h2>
