@@ -3,7 +3,8 @@
 </p>
 
 <h1 align="center">Oi, eu sou a Ana</h1>
-<h3 align="center">Estudante de Engenharia de Software | Entusiasta de Backend/h3>
+<br>
+<h3 align="center">Estudante de Engenharia de Software | Entusiasta de Backend</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PUCPR-Engenharia_de_Software-514071?style=for-the-badge&labelColor=251735&color=514071" />
