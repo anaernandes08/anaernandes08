@@ -3,7 +3,6 @@
 </p>
 
 <h1 align="center">Oi, eu sou a Ana</h1>
-<br>
 <h3 align="center">Estudante de Engenharia de Software | Entusiasta de Backend</h3>
 
 <p align="center">
