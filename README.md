@@ -1,5 +1,19 @@
-<h1 align="center">Hi there, I'm Ana Ernandes</h1> <h3 align="center">Software Engineering Student | Backend & Databases Enthusiast</h3> 
-💻 About Me
+<p align="center">
+  <img src="./assets/banner.png" alt="Banner" width="100%" />
+</p>
+
+<h1 align="center">Oi, eu sou a Ana</h1>
+<h3 align="center">Estudante de Engenharia de Software | Entusiasta de Backend e Bancos de Dados</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PUCPR-Engenharia_de_Software-514071?style=for-the-badge&labelColor=251735&color=514071" />
+</p>
+
+<details>
+<summary align="center">🇺🇸 <b>Read in English</b></summary>
+<br>
+
+### 💻 About Me
 
 Software Engineering student at PUCPR, interested in Backend Development, Databases, and Software Engineering. I enjoy learning new technologies and building projects to improve my programming skills.
 
@@ -7,7 +21,13 @@ I have experience with Python, HTML, CSS, and JavaScript, and I am currently dee
 
 I am curious, dedicated, and always looking for opportunities to learn, grow, and turn ideas into practical solutions.
 
-<details> <summary>🇧🇷 Leia em Português</summary> <br>
+**🗄️ Areas of Interest:** Backend Development · Database Design & Management · API Development
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0B1224,514071,B3D5F1,514071,0B1224" width="100%" />
+
+## 💻 Sobre mim
 
 Estudante de Engenharia de Software na PUCPR, interessada em Desenvolvimento Backend, Bancos de Dados e Engenharia de Software. Gosto de aprender novas tecnologias e desenvolver projetos para aprimorar meus conhecimentos em programação.
 
@@ -15,21 +35,39 @@ Tenho conhecimentos em Python, HTML, CSS e JavaScript, e atualmente estou aprofu
 
 Sou curiosa, dedicada e estou sempre buscando aprender, evoluir profissionalmente e transformar ideias em soluções práticas.
 
-</details>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0B1224,514071,B3D5F1,514071,0B1224" width="100%" />
 
-<p align="center">Languages & Databases</p>
+## 🛠️ Linguagens e Bancos de Dados
 
-<p align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,mysql,python,html,css,js&theme=dark" />
+</p>
 
-<p align="center">Tools</p>
+## 🧰 Ferramentas
 
-<p align="center"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" /> </p>
-🗄️ Areas of Interest <br>
-  - Backend Development<br>
-  - Database Design & Management<br>
-  - API Development<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,blender&theme=dark" />
+</p>
 
----
-  
- ✉️ Let's Connect<br>
-<p align="left"> <a href="https://www.linkedin.com/in/ana-ernandes-407518396/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:anaernandes2008@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0B1224,514071,B3D5F1,514071,0B1224" width="100%" />
+
+## 🗄️ Áreas de Interesse
+
+- Desenvolvimento Backend
+- Modelagem e Gerenciamento de Bancos de Dados
+- Desenvolvimento de APIs
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0B1224,514071,B3D5F1,514071,0B1224" width="100%" />
+
+## ✉️ Vamos nos conectar
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ana-ernandes-407518396/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-514071?style=for-the-badge&logo=linkedin&logoColor=B3D5F1&labelColor=251735" />
+  </a>
+  <a href="mailto:anaernandes2008@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contato-514071?style=for-the-badge&logo=gmail&logoColor=B3D5F1&labelColor=251735" />
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=0B1224,251735,514071&section=footer" width="100%" />
